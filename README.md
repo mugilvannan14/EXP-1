@@ -46,17 +46,21 @@ CIRCUIT DIAGRAM:
 a.   KVL:
  
 
+![Uploading BEE(kvl before).jpg…]()
 
 b.  KCL:
  
+<img width="1123" height="595" alt="BEE(KCLbefore)" src="https://github.com/user-attachments/assets/2b8a46ab-4654-40a6-9355-cb9fbb49a474" />
 
 Calculation:
 
 a.   KVL:
- 
+ <img width="1915" height="1075" alt="BEEE(kvl)" src="https://github.com/user-attachments/assets/1b7163d5-1943-4fb3-805b-d928135f5c82" />
+
 
 
 b.  KCL:
+<img width="1915" height="1074" alt="BEEE(kcl)" src="https://github.com/user-attachments/assets/531fe9a9-b438-44d6-ab25-cb9a74f09f43" />
 
 
 
