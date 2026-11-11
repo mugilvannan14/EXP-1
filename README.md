@@ -46,7 +46,8 @@ CIRCUIT DIAGRAM:
 a.   KVL:
  
 
-![Uploading BEE(kvl before).jpg…]()
+<img width="1177" height="628" alt="BEE(kvl before)" src="https://github.com/user-attachments/assets/bdd806db-30a1-428d-b8e3-0fb8e58b7478" />
+
 
 b.  KCL:
  
